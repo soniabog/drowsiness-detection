@@ -8,7 +8,6 @@ A computer vision project aimed at detecting signs of driver fatigue in real tim
 
 - `cnn-version/`: Contains the Jupyter Notebook with a complete report and implementation of a custom CNN used to classify eye states (open/closed).
 - `yolo-version/`: Contains Python scripts related to face and eye detection using the YOLO architecture (currently in development).
-- `.gitignore`: Specifies files and folders to be excluded from the repository, including any private data.
 
 ## Data Privacy
 
