@@ -13,5 +13,3 @@ A computer vision project aimed at detecting signs of driver fatigue in real tim
 ## Data Privacy
 
 > **Note:** The dataset used in this project was custom-collected and includes personal data (images/videos) of the author and friends. Therefore, it is **not included** in this repository.  
-
-![ex1.jpg](..%2F..%2Fdd2%2Fruns%2Fdetect%2Fpredict2%2Fex1.jpg)
